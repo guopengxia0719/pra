@@ -12,7 +12,6 @@ public class Cy1App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
         SpringApplication.run(Cy1App.class, args);
     }
 }
